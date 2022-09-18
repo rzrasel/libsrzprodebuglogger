@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Pro Debug Logger"
-include ':app'
-include ':libsprodebuglogger'
+//rootProject.name = "Pro Debug Logger"
+include ":app"
+include ":libsprodebuglogger"
